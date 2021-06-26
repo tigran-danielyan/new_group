@@ -9,7 +9,7 @@ def remove_dubles(list_):
     return result
 
 # print(remove_dubles(list_1))
-
+print("asides")
 
 # list_2 = [1, 1, 7, 1, 1]
 
